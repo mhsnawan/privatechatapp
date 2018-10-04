@@ -8,8 +8,8 @@ To run this project:
 6. Run <code>php artisan migrate</code>
 
 <h2>Routes</h2>
--> /register and /login to register and login.
--> /sendchat to see all users to whom you want to send message.
+1. /register and /login to register and login.
+2. /sendchat to see all users to whom you want to send message.
 
 
-This code has copyrighs of Mohsin Awan
+<p>This code has copyrighs © <b>Mohsin Awan</b> </p>
